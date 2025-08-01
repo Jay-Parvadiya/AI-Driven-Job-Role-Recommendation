@@ -1,0 +1,21 @@
+
+#[theme]
+#primaryColor="#1E3A8A"
+#backgroundColor="#121212"
+#secondaryBackgroundColor="#1F2937"
+#textColor="#E0E0E0"
+#font = "sans serif"
+
+#[theme]
+#primaryColor="#9B4444"
+#backgroundColor="#072227"
+#secondaryBackgroundColor="#334756"
+#textColor="#E0E0E0"
+#font = "sans serif"
+
+[theme]
+primaryColor="#008080"
+backgroundColor="#0F0F0F"
+secondaryBackgroundColor="#1C1C1C"
+textColor="#F0FFF0"
+
